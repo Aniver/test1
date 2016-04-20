@@ -1,0 +1,12 @@
+public class Teacher{
+    String name;
+    String lastName;
+    
+public Teacher(){
+name = “Сергей”;
+lastName = “Айфонов”;
+ }
+public Teacher(String nameTeacher){
+    name = name Teacher;
+    
+}
